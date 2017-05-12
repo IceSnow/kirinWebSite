@@ -4,4 +4,4 @@
 
 And of course:
 
-MIT: http://rem.mit-license.org
+MIT: 
